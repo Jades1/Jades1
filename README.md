@@ -19,5 +19,6 @@ I hold a Master of Science in Data Science and Engineering from the University o
 
 ## Elsewhere
 
+- [Website](https://jamesades.com)
 - [LinkedIn](https://www.linkedin.com/in/james-ades-93b346215/)
 - [ResearchGate](https://www.researchgate.net/profile/James-Ades)
